@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDCMan programVersion="2.7" schemaVersion="3">
+   <file>
+      <credentialsProfiles />
+      <properties>
+         <expanded>True</expanded>
+         <name>Template</name>
+      </properties>
+      <remoteDesktop inherit="None">
+         <sameSizeAsClientArea>True</sameSizeAsClientArea>
+         <fullScreen>False</fullScreen>
+         <colorDepth>24</colorDepth>
+      </remoteDesktop>
+      <group>
+         <properties>
+            <expanded>True</expanded>
+            <name>Template</name>
+         </properties>
+         <logonCredentials inherit="None">
+            <profileName scope="Local">example</profileName>
+            <userName>example</userName>
+            <password />
+            <domain>example</domain>
+         </logonCredentials>
+         <server>
+            <properties>
+               <name>Template</name>
+               <displayName>Template</displayName>
+            </properties>
+         </server>
+      </group>
+   </file>
+   <connected />
+   <favorites />
+   <recentlyUsed />
+</RDCMan>
